@@ -54,7 +54,7 @@ export default function Home() {
             autoFocus
           />
           <button className="btn btn-lg btn-primary btn-block" type="button" onClick={createStripeCustomer}>
-            Sign in
+            Log In
           </button>
           <p className="mt-5 mb-3 text-muted">&copy; Made by Sergiy. 2023</p>
         </form>
